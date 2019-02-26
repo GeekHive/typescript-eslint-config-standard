@@ -1,4 +1,4 @@
-# @geekhive/eslint-config-standard
+# @geekhive/typescript-eslint-config-standard
 
 Standard TypeScript ESlint configuration at GeekHive.
 

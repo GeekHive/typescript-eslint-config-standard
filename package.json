@@ -1,7 +1,7 @@
 {
   "name": "@geekhive/typescript-eslint-config-standard",
   "description": "Standard TypeScript-based ESLint configuration at GeekHive.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": {
     "name": "Justin Firth",
