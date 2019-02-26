@@ -1,0 +1,26 @@
+{
+  "name": "@geekhive/typescript-eslint-config-standard",
+  "description": "Standard TypeScript-based ESLint configuration at GeekHive.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Justin Firth",
+    "email": "jfirth@geekhive.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeekHive/typescript-eslint-config-standard"
+  },
+  "bugs": {
+    "url": "https://github.com/GeekHive/typescript-eslint-config-standard/issues"
+  },
+  "main": "eslint.json",
+  "peerDependencies": {
+    "eslint": "^4.19.1 || ^5.3.0"
+  },
+  "dependencies": {
+    "@geekhive/eslint-config-standard": "^1.0.0",
+    "@typescript-eslint/parser": "^1.4.2"
+  },
+  "devDependencies": {}
+}
